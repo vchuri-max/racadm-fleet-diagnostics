@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+reports/
+inventory*.csv
+!inventory.example.csv
+*.pem
+*.key
+.env
+.DS_Store
